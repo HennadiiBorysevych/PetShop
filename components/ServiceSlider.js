@@ -1,11 +1,10 @@
-import React from "react";
 import Image from "next/image";
 
+import "swiper/css/navigation";
+import "swiper/css";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import { Navigation } from "swiper";
-import "swiper/css/navigation";
-import "swiper/css";
 
 import Service1Icon from "../public/img/services/service-icon1.svg";
 import Service2Icon from "../public/img/services/service-icon2.svg";
